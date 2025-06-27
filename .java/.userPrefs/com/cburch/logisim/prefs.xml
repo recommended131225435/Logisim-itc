@@ -35,14 +35,14 @@
   <entry key="hotkeySimTickHalf" value="VAAAAIIAAAA="/>
   <entry key="hotkeyWindowClose" value="VwAAAMMAAAA="/>
   <entry key="hotkeyWindowMinimize" value="TQAAAMMAAAA="/>
-  <entry key="layoutZoom" value="0.8"/>
+  <entry key="layoutZoom" value="0.12276315789473684"/>
   <entry key="pokeRadix2" value="10signed"/>
   <entry key="recent8" value="1750747804889;/home/cherryperry/snap/logisim-evolution-snapcraft/200/trailAnother_Circuit.circ"/>
-  <entry key="recent9" value="1751011600370;/home/cherryperry/snap/logisim-evolution-snapcraft/200/Circuit.circ"/>
+  <entry key="recent9" value="1751026310693;/home/cherryperry/snap/logisim-evolution-snapcraft/200/Circuit.circ"/>
   <entry key="templateType" value="1"/>
   <entry key="windowHeight" value="1040"/>
   <entry key="windowLocation" value="0,40"/>
-  <entry key="windowMainSplit" value="0.25104166666666666"/>
+  <entry key="windowMainSplit" value="0.22083333333333333"/>
   <entry key="windowState" value="6"/>
   <entry key="windowWidth" value="1920"/>
 </map>
