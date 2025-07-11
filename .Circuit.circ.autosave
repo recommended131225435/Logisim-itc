@@ -4507,21 +4507,25 @@
     </comp>
     <comp lib="0" loc="(320,230)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="A00"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(320,260)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="A01"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(320,300)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="A10"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(320,330)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="A12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
@@ -4584,6 +4588,18 @@
       <a name="appearance" val="NewPins"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
+    </comp>
+    <comp lib="8" loc="(73,274)" name="Text">
+      <a name="text" val="A1"/>
+    </comp>
+    <comp lib="8" loc="(84,440)" name="Text">
+      <a name="text" val="B1"/>
+    </comp>
+    <comp lib="8" loc="(84,600)" name="Text">
+      <a name="text" val="A2"/>
+    </comp>
+    <comp lib="8" loc="(92,751)" name="Text">
+      <a name="text" val="B3"/>
     </comp>
   </circuit>
 </project>
