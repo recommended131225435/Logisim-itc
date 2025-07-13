@@ -4784,42 +4784,49 @@
     <comp lib="0" loc="(1700,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_22_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(1730,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_22_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(1760,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_22_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(1790,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_22_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(1860,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_21_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(1890,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_21_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(1920,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_21_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
@@ -4832,144 +4839,224 @@
     <comp lib="0" loc="(2220,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_12_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(2250,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_12_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(2280,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_12_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(2310,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_12_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(2380,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_11_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(2410,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_11_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(2440,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_11_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(2470,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_11_11"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(2660,2870)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(2680,2870)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(2700,2870)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(2720,2870)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(3450,2260)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3450,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_22_22"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(3470,2260)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3480,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_22_21"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(3490,2260)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(3510,2260)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3510,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_22_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3540,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_22_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3610,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_21_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3640,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_21_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3670,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_21_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3700,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_21_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3870,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_12_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3900,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_12_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3930,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_12_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3950,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_22_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3960,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_12_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(3980,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_22_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4010,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_22_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4040,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_22_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
@@ -4982,202 +5069,305 @@
     <comp lib="0" loc="(4070,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_11_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4100,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_11_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4110,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_21_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4130,820)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="A12_11_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4140,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_21_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4170,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_21_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4200,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B12_21_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4470,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_12_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4500,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_12_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4530,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_12_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4560,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_12_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4630,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_11_22"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(4650,5450)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4660,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_11_21"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(4670,5450)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4690,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_11_12"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(4690,5450)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="radix" val="16"/>
+      <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(4710,5450)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(4720,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
+      <a name="label" val="B11_11_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(4820,5410)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
+    </comp>
+    <comp lib="0" loc="(4830,5380)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
+    </comp>
+    <comp lib="0" loc="(4840,5320)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
+    </comp>
+    <comp lib="0" loc="(4840,5350)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
+    </comp>
+    <comp lib="0" loc="(5290,4260)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
+    </comp>
+    <comp lib="0" loc="(5300,4280)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
+    </comp>
+    <comp lib="0" loc="(5310,4300)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
+    </comp>
+    <comp lib="0" loc="(5320,4330)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
     </comp>
     <comp lib="0" loc="(5700,2140)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A22_22"/>
+      <a name="label" val="A11_22_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(5730,2140)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A22_21"/>
+      <a name="label" val="A11_22_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(5760,2140)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A22_12"/>
+      <a name="label" val="A11_22_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(5790,2140)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A22_11"/>
+      <a name="label" val="A11_22_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(5860,2140)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A21_22"/>
+      <a name="label" val="A11_21_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(5860,3740)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
+    </comp>
+    <comp lib="0" loc="(5880,3700)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
     </comp>
     <comp lib="0" loc="(5890,2140)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A21_21"/>
+      <a name="label" val="A11_21_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
+    </comp>
+    <comp lib="0" loc="(5890,3670)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
+    </comp>
+    <comp lib="0" loc="(5900,3620)" name="Probe">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="radix" val="10unsigned"/>
     </comp>
     <comp lib="0" loc="(5920,2140)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A21_12"/>
+      <a name="label" val="A11_21_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(5950,2140)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A21_11"/>
+      <a name="label" val="A11_21_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(6120,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A12_22"/>
+      <a name="label" val="A11_12_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(6150,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A12_21"/>
+      <a name="label" val="A11_12_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(6180,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A12_12"/>
+      <a name="label" val="A11_12_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(6210,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A12_11"/>
+      <a name="label" val="A11_12_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(6290,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A11_22"/>
+      <a name="label" val="A11_11_22"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(6320,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A11_21"/>
+      <a name="label" val="A11_11_21"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(6350,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A11_12"/>
+      <a name="label" val="A11_11_12"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
     <comp lib="0" loc="(6380,2150)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="south"/>
-      <a name="label" val="A11_11"/>
+      <a name="label" val="A11_11_11"/>
       <a name="radix" val="16"/>
       <a name="width" val="64"/>
     </comp>
@@ -5187,7 +5377,7 @@
     <comp loc="(3510,2260)" name="mat_mult_4x4">
       <a name="facing" val="south"/>
     </comp>
-    <comp loc="(4140,4730)" name="matrixAdder4x4">
+    <comp loc="(4710,5220)" name="matrixAdder4x4">
       <a name="facing" val="south"/>
     </comp>
     <comp loc="(4970,4200)" name="mat_mult_4x4">
@@ -5339,6 +5529,14 @@
     <wire from="(4170,3470)" to="(4790,3470)"/>
     <wire from="(4200,2150)" to="(4200,3450)"/>
     <wire from="(4200,3450)" to="(4810,3450)"/>
+    <wire from="(4330,4740)" to="(4330,5000)"/>
+    <wire from="(4330,4740)" to="(4910,4740)"/>
+    <wire from="(4350,4760)" to="(4350,5000)"/>
+    <wire from="(4350,4760)" to="(4930,4760)"/>
+    <wire from="(4370,4780)" to="(4370,5000)"/>
+    <wire from="(4370,4780)" to="(4950,4780)"/>
+    <wire from="(4390,4800)" to="(4390,5000)"/>
+    <wire from="(4390,4800)" to="(4970,4800)"/>
     <wire from="(4470,2150)" to="(4470,3330)"/>
     <wire from="(4470,3330)" to="(4510,3330)"/>
     <wire from="(4500,2150)" to="(4500,3310)"/>
@@ -5357,13 +5555,33 @@
     <wire from="(4600,3310)" to="(5520,3310)"/>
     <wire from="(4630,2150)" to="(4630,2970)"/>
     <wire from="(4630,2970)" to="(5480,2970)"/>
+    <wire from="(4650,4820)" to="(4650,5000)"/>
+    <wire from="(4650,4820)" to="(5700,4820)"/>
+    <wire from="(4650,5220)" to="(4650,5410)"/>
+    <wire from="(4650,5410)" to="(4650,5450)"/>
+    <wire from="(4650,5410)" to="(4820,5410)"/>
     <wire from="(4660,2150)" to="(4660,2950)"/>
     <wire from="(4660,2950)" to="(5500,2950)"/>
     <wire from="(4670,3630)" to="(4670,3980)"/>
+    <wire from="(4670,4840)" to="(4670,5000)"/>
+    <wire from="(4670,4840)" to="(5720,4840)"/>
+    <wire from="(4670,5220)" to="(4670,5380)"/>
+    <wire from="(4670,5380)" to="(4670,5450)"/>
+    <wire from="(4670,5380)" to="(4830,5380)"/>
     <wire from="(4690,2150)" to="(4690,2930)"/>
     <wire from="(4690,2930)" to="(5520,2930)"/>
     <wire from="(4690,3610)" to="(4690,3980)"/>
+    <wire from="(4690,4860)" to="(4690,5000)"/>
+    <wire from="(4690,4860)" to="(5740,4860)"/>
+    <wire from="(4690,5220)" to="(4690,5350)"/>
+    <wire from="(4690,5350)" to="(4690,5450)"/>
+    <wire from="(4690,5350)" to="(4840,5350)"/>
     <wire from="(4710,3590)" to="(4710,3980)"/>
+    <wire from="(4710,4880)" to="(4710,5000)"/>
+    <wire from="(4710,4880)" to="(5760,4880)"/>
+    <wire from="(4710,5220)" to="(4710,5320)"/>
+    <wire from="(4710,5320)" to="(4710,5450)"/>
+    <wire from="(4710,5320)" to="(4840,5320)"/>
     <wire from="(4720,2150)" to="(4720,2910)"/>
     <wire from="(4720,2910)" to="(5540,2910)"/>
     <wire from="(4730,3570)" to="(4730,3980)"/>
@@ -5381,12 +5599,24 @@
     <wire from="(4890,2640)" to="(5790,2640)"/>
     <wire from="(4910,2690)" to="(4910,3980)"/>
     <wire from="(4910,2690)" to="(5860,2690)"/>
+    <wire from="(4910,4200)" to="(4910,4330)"/>
+    <wire from="(4910,4330)" to="(4910,4740)"/>
+    <wire from="(4910,4330)" to="(5320,4330)"/>
     <wire from="(4930,2710)" to="(4930,3980)"/>
     <wire from="(4930,2710)" to="(5890,2710)"/>
+    <wire from="(4930,4200)" to="(4930,4300)"/>
+    <wire from="(4930,4300)" to="(4930,4760)"/>
+    <wire from="(4930,4300)" to="(5310,4300)"/>
     <wire from="(4950,2730)" to="(4950,3980)"/>
     <wire from="(4950,2730)" to="(5920,2730)"/>
+    <wire from="(4950,4200)" to="(4950,4280)"/>
+    <wire from="(4950,4280)" to="(4950,4780)"/>
+    <wire from="(4950,4280)" to="(5300,4280)"/>
     <wire from="(4970,2750)" to="(4970,3980)"/>
     <wire from="(4970,2750)" to="(5950,2750)"/>
+    <wire from="(4970,4200)" to="(4970,4260)"/>
+    <wire from="(4970,4260)" to="(4970,4800)"/>
+    <wire from="(4970,4260)" to="(5290,4260)"/>
     <wire from="(5480,2970)" to="(5480,3290)"/>
     <wire from="(5480,3290)" to="(5540,3290)"/>
     <wire from="(5480,3350)" to="(5480,3370)"/>
@@ -5420,24 +5650,41 @@
     <wire from="(5700,2950)" to="(6180,2950)"/>
     <wire from="(5700,3340)" to="(5700,3370)"/>
     <wire from="(5700,3340)" to="(5850,3340)"/>
+    <wire from="(5700,3590)" to="(5700,3660)"/>
+    <wire from="(5700,3660)" to="(5700,4820)"/>
+    <wire from="(5700,3660)" to="(5840,3660)"/>
     <wire from="(5720,2970)" to="(5720,3290)"/>
     <wire from="(5720,2970)" to="(6210,2970)"/>
     <wire from="(5720,3350)" to="(5720,3370)"/>
     <wire from="(5720,3350)" to="(5870,3350)"/>
+    <wire from="(5720,3590)" to="(5720,3630)"/>
+    <wire from="(5720,3630)" to="(5720,4840)"/>
+    <wire from="(5720,3630)" to="(5870,3630)"/>
     <wire from="(5730,2140)" to="(5730,2600)"/>
     <wire from="(5740,3360)" to="(5740,3370)"/>
     <wire from="(5740,3360)" to="(5890,3360)"/>
+    <wire from="(5740,3590)" to="(5740,3600)"/>
+    <wire from="(5740,3600)" to="(5740,4860)"/>
+    <wire from="(5740,3600)" to="(5890,3600)"/>
     <wire from="(5760,2140)" to="(5760,2620)"/>
     <wire from="(5760,3370)" to="(5910,3370)"/>
+    <wire from="(5760,3590)" to="(5760,4880)"/>
+    <wire from="(5760,3590)" to="(5900,3590)"/>
     <wire from="(5790,2140)" to="(5790,2640)"/>
+    <wire from="(5840,3660)" to="(5840,3740)"/>
+    <wire from="(5840,3740)" to="(5860,3740)"/>
     <wire from="(5850,3020)" to="(5850,3340)"/>
     <wire from="(5850,3020)" to="(6290,3020)"/>
     <wire from="(5860,2140)" to="(5860,2690)"/>
     <wire from="(5870,3040)" to="(5870,3350)"/>
     <wire from="(5870,3040)" to="(6320,3040)"/>
+    <wire from="(5870,3630)" to="(5870,3700)"/>
+    <wire from="(5870,3700)" to="(5880,3700)"/>
     <wire from="(5890,2140)" to="(5890,2710)"/>
     <wire from="(5890,3060)" to="(5890,3360)"/>
     <wire from="(5890,3060)" to="(6350,3060)"/>
+    <wire from="(5890,3600)" to="(5890,3670)"/>
+    <wire from="(5900,3590)" to="(5900,3620)"/>
     <wire from="(5910,3080)" to="(5910,3370)"/>
     <wire from="(5910,3080)" to="(6380,3080)"/>
     <wire from="(5920,2140)" to="(5920,2730)"/>
