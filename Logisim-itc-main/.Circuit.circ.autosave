@@ -6479,6 +6479,10 @@
       <a name="dataWidth" val="64"/>
       <a name="type" val="nonvolatile"/>
     </comp>
+    <comp lib="4" loc="(170,640)" name="Register">
+      <a name="appearance" val="logisim_evolution"/>
+      <a name="width" val="4"/>
+    </comp>
     <comp lib="4" loc="(1810,1140)" name="RAM">
       <a name="addrWidth" val="4"/>
       <a name="appearance" val="classic"/>
