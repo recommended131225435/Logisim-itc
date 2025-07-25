@@ -7428,9 +7428,9 @@
     <wire from="(910,730)" to="(940,730)"/>
     <wire from="(940,660)" to="(940,710)"/>
   </circuit>
-  <circuit name="Assem">
+  <circuit name="Assembly_16x16_leaving_in_mid">
     <a name="appearance" val="logisim_evolution"/>
-    <a name="circuit" val="Assem"/>
+    <a name="circuit" val="Assembly_16x16_leaving_in_mid"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="1.0"/>
     <comp lib="0" loc="(110,1100)" name="Clock"/>
